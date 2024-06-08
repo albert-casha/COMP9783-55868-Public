@@ -1,4 +1,8 @@
 # This is my first public repo by Albert Casha
 #### Final-Project app text here...
 ## Table of Contents
-[Features](docs/Features.md)
+- [Usage](docs/Usage.md)
+
+## Features
+- Feature 1: Feature text here...
+- Feature 2: Feature text here...
